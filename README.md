@@ -33,32 +33,6 @@ Batch Prediction
 Dashboard Visualization
 Easy to Use
 
-📊 Dataset Information
-
-The project uses a custom dataset containing 500 learner records.
-
-Features
-User_ID
-Experience_Level
-Category
-Platform
-Enrollment_Date
-Completion_Date
-Hours_Spent_Per_Week
-Course_Duration_Weeks
-Videos_Watched
-Assignments_Submitted
-Quiz_Score
-Engagement_Score
-Completion_Percentage
-Certificate_Issued
-Target Variable
-Completion_Status
-Completed
-In Progress
-Dropped
-
-
 🛠 Technologies Used
 Programming
 
@@ -146,5 +120,6 @@ Download Results
 Nikhat Khan
 
 M.Tech – Digital Electronics & Communication Systems
+Aspiring AI & Data Science Engineer
 
 Data Science | Machine Learning | Python | Power BI | Streamlit
