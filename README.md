@@ -1,4 +1,4 @@
-🎓 Online Course Completion Prediction System
+Title:--🎓 Online Course Completion Prediction System
 
 📌 Project Overview
 
@@ -57,6 +57,8 @@ Completion_Status
 Completed
 In Progress
 Dropped
+
+
 🛠 Technologies Used
 Programming
 Python
@@ -70,16 +72,16 @@ Plotly
 Matplotlib
 Visualization
 Microsoft Power BI
+
+
 🤖 Machine Learning Model
-
 Classification Model used for prediction.
-
 The model predicts:
-
 Completed
-In Progress
-Dropped
 
+In Progress
+
+Dropped
 based on learner activity and performance.
 
 📈 Power BI Dashboard
@@ -97,6 +99,9 @@ Certificate Issued Status
 Student Performance
 Quiz Score Analysis
 Learning Hours vs Completion %
+
+
+
 🌐 Streamlit Application
 
 The Streamlit application contains:
