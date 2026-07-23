@@ -56,7 +56,7 @@ if page == "🏠 Home":
     st.title("📚Online Course Completion Prediction System")
     st.markdown("This project uses Machine Learning to predict whether a student will Complete, Drop or remain In Progress based on learning behaviour.")
 
-    st.image( "assets/Homepage.png", use_container_width=True )
+    st.image( "assets/stremlit_homepage.png", use_container_width=True )
 
     st.markdown("---")
 
