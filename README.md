@@ -135,7 +135,7 @@ Download Results
 
 ## 🌐 Live Application
 
-👉 **Streamlit App:** https://https://online-course-completion-analysis-system.streamlit.app
+👉 **Streamlit App:** https://online-course-completion-analysis-system.streamlit.app
 
 📂 **GitHub Repository:** https://github.com/nikhatmirza28/online_course_completion_Analysis.github.io
 
