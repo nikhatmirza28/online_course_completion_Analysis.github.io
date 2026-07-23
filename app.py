@@ -51,32 +51,69 @@ page = st.sidebar.radio(
 
 if page == "🏠 Home":
 
-    st.title("🎓 AI-Based Online Course Completion Prediction")
+    import streamlit as st
 
-    st.markdown("""
-Welcome to the **Online Course Completion Prediction System**.
+    st.title("📚Online Course Completion Prediction System")
+    st.markdown("This project uses Machine Learning to predict whether a student will Complete, Drop or remain In Progress based on learning behaviour.")
 
-This project analyzes learner behaviour and predicts the
-completion status of online learners using Machine Learning.
-    """)
+    st.image( "stremlit_homepage.png", use_container_width=True )
 
-    col1, col2, col3 = st.columns(3)
+    st.markdown("---")
 
-    col1.metric("Total Learners", len(df))
-    col2.metric("ML Model", "Random Forest")
-    col3.metric("Accuracy", "91%")
+    st.subheader("Project Overview")
 
+    st.write("""This project predicts whether a learner will Complete, Drop, or remain In Progress using Machine Learning. It also provides interactive Power BI dashboards to analyze learner behavior and performance.""")
+
+    st.markdown("## ⚠️ Problem Statement")
+
+    st.write("""
+        Many students enroll in online courses but do not complete them. Online learning platforms
+        find it difficult to identify learners who are likely to complete, continue, or drop out.
+        This project addresses this challenge by predicting learner completion status and providing
+        analytical insights to improve student engagement and course completion.
+        """)
+
+    st.subheader("Project Objective")
+    st.write("""
+        The main objective of this project is to predict the completion status of learners using
+        Machine Learning. The system classifies learners as Completed, In Progress, or Dropped,
+        helping online learning platforms analyze student performance and make data-driven decisions
+        to improve learner retention and success.
+        """)
+    st.subheader("Project Feature")
+    st.write ("""Key Features: 
+    
+        ✅ Course Completion Prediction
+
+        ✅ Interactive Power BI Dashboard
+
+        ✅ Student Performance Analytics
+
+        ✅ Platform-wise Analysis
+
+        ✅ Course Category Analysis
+
+        ✅ Batch Prediction""")
+
+    st.markdown("## 📂 Dataset")
+
+    st.info("""
+        **Dataset Source:** Kaggle
+
+        **Dataset Name:** Online Learning & Course Consumption Dataset
+
+        The original dataset was collected from Kaggle and later cleaned,
+        preprocessed, and enhanced with additional features for Machine Learning
+        model training and Power BI dashboard development.
+
+        Dataset Link:
+        https://www.kaggle.com/datasets/prince7489/online-learning-and-course-consumption-dataset
+        """)
     st.subheader("Dataset Preview")
 
     st.dataframe(df.head())
 
-    st.subheader("Project Objective")
 
-    st.info("""
-Predict the completion status of an entire batch of learners
-to help online learning platforms identify completed,
-in-progress and dropped learners.
-""")
     
 # ==========================================
 # ANALYSIS PAGE
@@ -90,14 +127,18 @@ elif page == "📊 Analysis":
 
     col1, col2 = st.columns(2)
 
+
+        
     with col1:
-        st.subheader("Completion Status")
-        st.image("screenshots/Completion_status.JPG", use_container_width=True)
-
+                    st.subheader("Course Category Distribution")
+                    st.image("screenshots/Course_Catagory.JPG", use_container_width=True)
+            
     with col2:
-        st.subheader("Enrollment Month")
-        st.image("screenshots/EnrolmentMonth_Dist.JPG", use_container_width=True)
+                    st.subheader("Plateform_Distribution")
+                    st.image("screenshots/Plateform.JPG", use_container_width=True)
 
+
+    
     col3, col4 = st.columns(2)
 
     with col3:
@@ -105,14 +146,62 @@ elif page == "📊 Analysis":
         st.image("screenshots/Completion_percentage.JPG", use_container_width=True)
 
     with col4:
-        st.subheader("Experience vs Completion")
+        st.subheader("Engagement vs Completion")
         st.image("screenshots/EngatementScoreVSCompleStat.JPG", use_container_width=True)
+
+
+
+    col5, col6 = st.columns(2)
+
+    with col5:
+            st.subheader("Completion Status")
+            st.image("screenshots/Completion_status.JPG", use_container_width=True)
+    
+    with col6:
+            st.subheader("Enrollment Month")
+            st.image("screenshots/Enrollment_month.JPG", use_container_width=True)
+
+
+    
+    col7, col8 = st.columns(2)
+    
+    with col7:
+                st.subheader("Satisfaction Score By Completion status")
+                st.image("screenshots/SatisfactionScoreVSCompletion.JPG", use_container_width=True)
+        
+    with col8:
+                st.subheader("Completion Status by Experience Level")
+                st.image("screenshots/CompletionVSExpLevel.JPG", use_container_width=True)
 
     st.subheader("Correlation Heatmap")
 
     st.image("screenshots/Heatmap.JPG", use_container_width=True)
 
 
+
+
+    st.title (" Power BI Dashboard ")
+    
+    st.markdown("---")
+    st.write("""
+        The following Power BI dashboards provide detailed insights into
+        student enrollment, course completion, learner engagement,
+        platform performance, certifications, and overall learning trends.
+        """)
+
+    st.markdown("### Dashboard - Page 1")
+
+    st.image(
+    "screenshots/Dashboard_Page1.jpg",
+    use_container_width=True
+        )
+
+    st.markdown("### Dashboard - Page 2")
+
+    st.image(
+    "screenshots/Dashbord_Page2.jpg",
+    use_container_width=True
+)
 
 # ==========================================
 # BATCH PREDICTION PAGE
