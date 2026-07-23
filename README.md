@@ -77,11 +77,11 @@ Microsoft Power BI
 🤖 Machine Learning Model
 Classification Model used for prediction.
 The model predicts:
-Completed
-
-In Progress
-
+Completed,
+In Progress,
 Dropped
+
+
 based on learner activity and performance.
 
 📈 Power BI Dashboard
