@@ -20,14 +20,14 @@ st.set_page_config(
 # Load Dataset
 # ------------------------------------------
 
-df = pd.read_csv("online_learning_course_completion_final.csv")
+df = pd.read_csv("data/online_learning_course_completion_final.csv")
 
 # ------------------------------------------
 # Load ML Model & Encoders
 # ------------------------------------------
 
-model = joblib.load("course_completion_model.pkl")
-label_encoders = joblib.load("label_encoders.pkl")
+model = joblib.load("models/course_completion_model.pkl")
+label_encoders = joblib.load("models/label_encoders.pkl")
 
 # ------------------------------------------
 # Sidebar
@@ -92,25 +92,25 @@ elif page == "📊 Analysis":
 
     with col1:
         st.subheader("Completion Status")
-        st.image("Completion_status.JPG", use_container_width=True)
+        st.image("screenshots/Completion_status.JPG", use_container_width=True)
 
     with col2:
         st.subheader("Enrollment Month")
-        st.image("EnrolmentMonth_Dist.JPG", use_container_width=True)
+        st.image("screenshots/EnrolmentMonth_Dist.JPG", use_container_width=True)
 
     col3, col4 = st.columns(2)
 
     with col3:
         st.subheader("Completion Percentage")
-        st.image("Completion_percentage.JPG", use_container_width=True)
+        st.image("screenshots/Completion_percentage.JPG", use_container_width=True)
 
     with col4:
         st.subheader("Experience vs Completion")
-        st.image("EngatementScoreVSCompleStat.JPG", use_container_width=True)
+        st.image("screenshots/EngatementScoreVSCompleStat.JPG", use_container_width=True)
 
     st.subheader("Correlation Heatmap")
 
-    st.image("Heatmap.JPG", use_container_width=True)
+    st.image("screenshots/Heatmap.JPG", use_container_width=True)
 
 
 
