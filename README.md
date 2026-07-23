@@ -1,4 +1,4 @@
-Title:--🎓 Online Course Completion Prediction System
+Title:🎓 Online Course Completion Prediction System
 
 📌 Project Overview
 
