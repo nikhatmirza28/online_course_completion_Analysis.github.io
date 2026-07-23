@@ -190,14 +190,14 @@ elif page == "📊 Analysis":
     st.markdown("### Dashboard - Page 1")
 
     st.image(
-    "screenshots/Dashboard_Page1.jpg",
+    "dashboards/Dashboard_Page1.jpg",
     use_container_width=True
         )
 
     st.markdown("### Dashboard - Page 2")
 
     st.image(
-    "screenshots/Dashbord_Page2.jpg",
+    "dashboards/Dashbord_Page2.jpg",
     use_container_width=True
 )
 
