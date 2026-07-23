@@ -131,7 +131,15 @@ Upload CSV
 Predict Completion Status
 Download Results
 
+# 🎓 Online Course Completion Prediction System
 
+## 🌐 Live Application
+
+👉 **Streamlit App:** https://https://online-course-completion-analysis-system.streamlit.app
+
+📂 **GitHub Repository:** https://github.com/nikhatmirza28/online_course_completion_Analysis.github.io
+
+-------------------------------------------------------------------------
 
 👨‍💻 Author
 
