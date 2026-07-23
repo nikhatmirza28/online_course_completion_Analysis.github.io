@@ -1,0 +1,501 @@
+User_ID,Experience_Level,Category,Platform,Enrollment_Date,Completion_Date,Hours_Spent_Per_Week,Course_Duration_Weeks,Videos_Watched,Assignments_Submitted,Quiz_Score,Engagement_Score,Completion_Status,Completion_Percentage,Certificate_Issued,Dropout_Reason,Satisfaction_Score
+U0001,Fresher,Machine Learning,Skillshare,05/30/2024,07/03/2024,16,8,80,8,88,93,Completed,67,Yes,No Dropout,5
+U0002,Fresher,Data Science,edX,12/03/2024,,17,22,21,5,39,14,Dropped,38,No,Time Constraint,2
+U0003,Fresher,SQL,Coursera,06/05/2024,,19,21,30,1,25,68,In Progress,43,No,No Dropout,3
+U0004,Student,Artificial Intelligence,Udemy,03/01/2024,,14,2,13,2,33,43,Dropped,14,No,Time Constraint,2
+U0005,Student,Statistics,Skillshare,07/30/2024,,8,10,12,3,46,24,Dropped,8,No,Too Difficult,2
+U0006,Working Professional,Statistics,Coursera,11/22/2024,,11,11,25,3,64,55,In Progress,53,No,No Dropout,3
+U0007,Working Professional,Power BI,YouTube,09/09/2024,,12,19,52,0,34,15,Dropped,34,No,Too Difficult,1
+U0008,Fresher,Artificial Intelligence,Skillshare,08/07/2024,,1,17,17,0,62,26,Dropped,37,No,Too Difficult,2
+U0009,Fresher,Power BI,Skillshare,02/07/2024,06/04/2024,12,14,120,7,75,76,Completed,51,Yes,No Dropout,5
+U0010,Working Professional,Statistics,edX,05/06/2024,07/04/2024,5,15,116,10,93,99,Completed,98,Yes,No Dropout,4
+U0011,Student,Tableau,Skillshare,07/15/2024,,13,20,40,3,63,70,In Progress,71,No,No Dropout,3
+U0012,Student,Statistics,edX,09/18/2024,,6,3,21,0,56,59,In Progress,34,No,No Dropout,4
+U0013,Fresher,Python,Coursera,01/26/2025,,19,5,41,4,53,34,Dropped,27,No,Time Constraint,3
+U0014,Working Professional,SQL,edX,04/11/2024,,16,5,38,1,40,65,In Progress,79,No,No Dropout,4
+U0015,Fresher,Statistics,Skillshare,03/08/2024,,2,15,17,5,43,64,In Progress,37,No,No Dropout,3
+U0016,Fresher,Statistics,Udemy,02/25/2025,,20,14,20,2,27,43,Dropped,27,No,Too Difficult,3
+U0017,Working Professional,SQL,Udemy,07/02/2024,,12,15,36,2,39,45,Dropped,19,No,Too Difficult,1
+U0018,Working Professional,Artificial Intelligence,Udemy,03/01/2025,05/28/2025,7,20,76,8,95,89,Completed,38,Yes,No Dropout,4
+U0019,Working Professional,Tableau,Coursera,01/31/2024,03/11/2024,7,16,80,7,82,98,Completed,53,Yes,No Dropout,4
+U0020,Working Professional,Artificial Intelligence,YouTube,05/30/2024,,16,10,16,0,63,33,Dropped,36,No,Time Constraint,2
+U0021,Student,Power BI,Skillshare,11/01/2024,01/24/2025,8,11,94,9,75,81,Completed,43,Yes,No Dropout,5
+U0022,Student,Python,Skillshare,05/21/2024,08/25/2024,1,7,94,8,86,88,Completed,82,Yes,No Dropout,4
+U0023,Working Professional,Machine Learning,Udemy,04/02/2025,,11,9,56,4,41,67,In Progress,31,No,No Dropout,4
+U0024,Student,Statistics,YouTube,06/02/2024,08/02/2024,7,16,78,10,72,97,Completed,45,Yes,No Dropout,5
+U0025,Fresher,Artificial Intelligence,edX,09/11/2024,01/07/2025,18,15,95,8,89,83,Completed,39,Yes,No Dropout,5
+U0026,Fresher,Power BI,YouTube,02/28/2025,04/15/2025,3,5,90,7,81,100,Completed,66,Yes,No Dropout,5
+U0027,Fresher,Data Science,Coursera,03/13/2024,,6,15,53,3,30,43,Dropped,7,No,Lost Interest,3
+U0028,Fresher,Machine Learning,Udemy,07/18/2024,,17,17,60,2,25,54,In Progress,86,No,No Dropout,3
+U0029,Fresher,Artificial Intelligence,YouTube,09/04/2024,,12,19,48,2,28,38,Dropped,35,No,No Dropout,2
+U0030,Student,Statistics,Skillshare,04/05/2024,05/11/2024,20,20,76,10,85,91,Completed,63,Yes,No Dropout,4
+U0031,Working Professional,Machine Learning,Udemy,11/29/2024,,13,5,27,5,26,50,In Progress,68,No,No Dropout,3
+U0032,Fresher,Power BI,edX,10/21/2024,,12,14,55,2,64,62,In Progress,49,No,No Dropout,3
+U0033,Fresher,SQL,edX,05/25/2024,,18,16,39,3,65,54,In Progress,95,No,No Dropout,3
+U0034,Working Professional,Power BI,Skillshare,11/19/2024,,5,14,17,3,42,22,Dropped,8,No,Too Difficult,1
+U0035,Fresher,SQL,YouTube,04/03/2025,,12,4,48,0,42,23,Dropped,35,No,Lost Interest,3
+U0036,Fresher,Data Science,Skillshare,02/17/2025,03/25/2025,4,15,115,9,82,88,Completed,84,Yes,No Dropout,5
+U0037,Fresher,Statistics,Skillshare,01/24/2025,03/10/2025,3,21,100,7,78,97,Completed,45,Yes,No Dropout,5
+U0038,Student,Statistics,Udemy,10/03/2024,,17,24,50,3,47,15,Dropped,37,No,Lost Interest,3
+U0039,Student,Artificial Intelligence,Udemy,02/15/2024,,6,11,18,4,64,31,Dropped,5,No,No Dropout,1
+U0040,Fresher,Statistics,YouTube,04/10/2025,,3,2,58,3,49,45,In Progress,73,No,No Dropout,3
+U0041,Working Professional,Machine Learning,YouTube,04/03/2024,,15,24,18,4,34,24,Dropped,20,No,Lost Interest,2
+U0042,Student,SQL,Skillshare,05/29/2024,08/19/2024,3,21,98,8,88,92,Completed,85,Yes,No Dropout,5
+U0043,Fresher,Tableau,Coursera,04/01/2024,06/03/2024,12,16,117,10,80,84,Completed,56,Yes,No Dropout,4
+U0044,Student,Power BI,Skillshare,07/30/2024,,12,20,19,0,35,13,Dropped,7,No,Lost Interest,1
+U0045,Fresher,Artificial Intelligence,Udemy,11/13/2024,12/20/2024,15,6,118,9,88,90,Completed,78,Yes,No Dropout,5
+U0046,Fresher,Tableau,Udemy,01/10/2025,,2,22,39,5,51,13,Dropped,37,No,Too Difficult,2
+U0047,Student,Statistics,edX,10/26/2024,,11,15,59,2,48,10,Dropped,7,No,Time Constraint,3
+U0048,Fresher,Data Science,Coursera,12/26/2024,,7,12,32,3,35,40,Dropped,9,No,Time Constraint,1
+U0049,Student,Power BI,Coursera,08/20/2024,12/15/2024,11,2,96,8,80,97,Completed,94,Yes,No Dropout,5
+U0050,Working Professional,Tableau,Coursera,11/14/2024,,6,10,43,1,44,31,Dropped,8,No,No Dropout,3
+U0051,Working Professional,Data Science,edX,12/29/2024,04/20/2025,12,2,89,10,77,90,Completed,49,Yes,No Dropout,4
+U0052,Fresher,Statistics,YouTube,03/20/2025,06/12/2025,17,17,73,7,82,80,Completed,81,Yes,No Dropout,5
+U0053,Working Professional,Artificial Intelligence,Skillshare,07/03/2024,,15,17,22,5,58,25,Dropped,36,No,Time Constraint,2
+U0054,Working Professional,Power BI,Coursera,10/16/2024,02/13/2025,8,11,81,8,86,95,Completed,35,Yes,No Dropout,4
+U0055,Working Professional,Artificial Intelligence,Udemy,04/02/2025,,9,13,39,2,53,29,Dropped,31,No,Time Constraint,2
+U0056,Working Professional,Statistics,edX,05/23/2024,,6,4,60,5,45,58,In Progress,55,No,No Dropout,3
+U0057,Working Professional,Statistics,edX,06/19/2024,09/16/2024,9,16,77,7,95,83,Completed,55,Yes,No Dropout,5
+U0058,Fresher,Data Science,Udemy,08/03/2024,,5,14,26,3,62,46,In Progress,80,No,No Dropout,3
+U0059,Student,SQL,Udemy,10/11/2024,,16,2,40,2,33,33,Dropped,7,No,No Dropout,3
+U0060,Working Professional,Python,Udemy,08/08/2024,,11,10,41,1,54,68,In Progress,41,No,No Dropout,3
+U0061,Student,Power BI,YouTube,09/28/2024,,20,20,58,2,36,25,Dropped,33,No,Lost Interest,3
+U0062,Fresher,Power BI,Coursera,10/02/2024,,5,2,43,3,62,14,Dropped,29,No,Lost Interest,2
+U0063,Working Professional,Data Science,Coursera,10/26/2024,02/16/2025,19,23,98,8,81,99,Completed,87,Yes,No Dropout,5
+U0064,Student,Artificial Intelligence,Skillshare,04/11/2025,,11,23,44,4,55,46,In Progress,98,No,No Dropout,3
+U0065,Student,Power BI,Skillshare,08/29/2024,,6,23,55,4,47,13,Dropped,25,No,Lost Interest,2
+U0066,Student,Tableau,Coursera,02/09/2025,,12,8,57,0,61,48,In Progress,96,No,No Dropout,4
+U0067,Working Professional,Data Science,Udemy,02/11/2024,,18,5,33,4,58,12,Dropped,6,No,Too Difficult,2
+U0068,Working Professional,Power BI,Coursera,03/26/2024,,20,15,23,3,62,67,In Progress,54,No,No Dropout,4
+U0069,Working Professional,Tableau,Udemy,04/07/2025,,1,18,38,2,63,45,In Progress,96,No,No Dropout,4
+U0070,Working Professional,SQL,Skillshare,12/04/2024,03/21/2025,7,22,78,10,86,79,Completed,84,Yes,No Dropout,4
+U0071,Fresher,Data Science,edX,10/06/2024,01/09/2025,4,7,103,10,95,100,Completed,34,Yes,No Dropout,4
+U0072,Student,Statistics,YouTube,05/09/2025,,16,17,43,3,50,19,Dropped,20,No,No Dropout,1
+U0073,Fresher,Power BI,Coursera,02/08/2025,,3,18,49,2,29,39,Dropped,19,No,No Dropout,1
+U0074,Student,Machine Learning,YouTube,10/26/2024,,13,20,31,5,65,64,In Progress,51,No,No Dropout,3
+U0075,Student,Statistics,YouTube,10/12/2024,,3,17,19,1,63,58,In Progress,96,No,No Dropout,3
+U0076,Working Professional,Power BI,edX,05/20/2024,08/11/2024,20,24,101,9,79,83,Completed,67,Yes,No Dropout,4
+U0077,Working Professional,Statistics,Udemy,09/30/2024,01/13/2025,12,16,74,10,89,87,Completed,36,Yes,No Dropout,4
+U0078,Working Professional,Statistics,edX,06/05/2024,,18,18,51,1,54,32,Dropped,38,No,Too Difficult,2
+U0079,Working Professional,Python,Skillshare,09/11/2024,12/09/2024,20,5,82,7,94,76,Completed,76,Yes,No Dropout,4
+U0080,Student,Data Science,edX,02/18/2024,,6,17,53,0,38,22,Dropped,17,No,Lost Interest,3
+U0081,Working Professional,Artificial Intelligence,YouTube,03/04/2025,,3,22,52,2,65,53,In Progress,52,No,No Dropout,3
+U0082,Fresher,Statistics,Udemy,06/08/2024,07/17/2024,8,13,114,8,90,76,Completed,67,Yes,No Dropout,4
+U0083,Working Professional,Python,edX,05/23/2024,,9,11,14,3,48,23,Dropped,30,No,Too Difficult,1
+U0084,Student,Machine Learning,Coursera,12/16/2024,,1,4,60,2,50,59,In Progress,58,No,No Dropout,3
+U0085,Student,Data Science,Udemy,09/02/2024,10/11/2024,15,23,78,8,82,93,Completed,97,Yes,No Dropout,5
+U0086,Student,Data Science,Udemy,01/25/2024,,8,18,44,3,47,24,Dropped,25,No,Too Difficult,3
+U0087,Fresher,SQL,Udemy,06/26/2024,,2,2,21,1,27,56,In Progress,94,No,No Dropout,4
+U0088,Fresher,Tableau,YouTube,07/30/2024,,10,11,54,2,46,25,Dropped,13,No,Time Constraint,3
+U0089,Working Professional,Tableau,edX,06/23/2024,09/08/2024,9,20,87,9,99,91,Completed,92,Yes,No Dropout,5
+U0090,Fresher,Statistics,edX,01/18/2025,,13,11,60,3,33,65,In Progress,76,No,No Dropout,3
+U0091,Student,Machine Learning,edX,12/03/2024,,9,10,44,4,27,60,In Progress,75,No,No Dropout,3
+U0092,Student,Power BI,YouTube,04/02/2024,05/10/2024,11,8,95,10,89,79,Completed,96,Yes,No Dropout,5
+U0093,Fresher,Artificial Intelligence,Coursera,01/13/2025,04/07/2025,4,10,85,10,80,96,Completed,34,Yes,No Dropout,5
+U0094,Student,Statistics,edX,06/13/2024,08/20/2024,3,9,107,9,94,77,Completed,31,Yes,No Dropout,5
+U0095,Working Professional,Data Science,Coursera,04/21/2024,08/08/2024,15,21,96,9,96,97,Completed,73,Yes,No Dropout,4
+U0096,Working Professional,Statistics,YouTube,07/21/2024,10/30/2024,6,11,83,9,74,84,Completed,73,Yes,No Dropout,4
+U0097,Fresher,Statistics,Udemy,06/26/2024,,2,11,22,3,46,52,In Progress,63,No,No Dropout,3
+U0098,Student,Statistics,YouTube,04/09/2024,,4,12,41,5,54,37,Dropped,29,No,No Dropout,3
+U0099,Fresher,SQL,Skillshare,05/11/2024,,12,23,16,0,33,10,Dropped,11,No,Time Constraint,2
+U0100,Student,Statistics,YouTube,04/28/2024,,13,8,35,0,38,50,In Progress,35,No,No Dropout,3
+U0101,Fresher,Tableau,Coursera,03/23/2025,,17,2,60,2,46,41,Dropped,36,No,Time Constraint,1
+U0102,Working Professional,Artificial Intelligence,Udemy,10/24/2024,01/31/2025,20,17,118,7,94,92,Completed,64,Yes,No Dropout,5
+U0103,Working Professional,SQL,YouTube,02/07/2025,,7,17,57,2,63,46,In Progress,73,No,No Dropout,3
+U0104,Student,Power BI,Udemy,12/18/2024,02/20/2025,20,12,75,10,98,96,Completed,38,Yes,No Dropout,4
+U0105,Working Professional,Power BI,Skillshare,04/29/2024,,6,5,15,3,33,62,In Progress,85,No,No Dropout,4
+U0106,Working Professional,Tableau,Coursera,07/31/2024,,14,13,17,3,48,61,In Progress,56,No,No Dropout,3
+U0107,Student,Python,YouTube,11/27/2024,,19,10,26,4,31,39,Dropped,11,No,Too Difficult,1
+U0108,Fresher,Data Science,YouTube,01/28/2024,04/03/2024,14,2,96,7,86,91,Completed,97,Yes,No Dropout,4
+U0109,Working Professional,Data Science,Skillshare,07/31/2024,,3,18,15,4,25,53,In Progress,78,No,No Dropout,3
+U0110,Fresher,Artificial Intelligence,YouTube,01/04/2025,,20,22,36,0,39,36,Dropped,34,No,Too Difficult,2
+U0111,Student,SQL,Coursera,09/19/2024,,18,6,17,3,37,19,Dropped,10,No,Time Constraint,3
+U0112,Working Professional,Tableau,edX,03/26/2025,,15,10,44,2,28,19,Dropped,22,No,Time Constraint,3
+U0113,Fresher,Artificial Intelligence,Coursera,04/17/2025,,5,12,17,5,65,10,Dropped,8,No,Time Constraint,1
+U0114,Working Professional,Power BI,Skillshare,01/22/2024,,14,20,54,4,43,61,In Progress,81,No,No Dropout,3
+U0115,Student,Machine Learning,Skillshare,04/12/2025,06/29/2025,12,15,110,7,83,94,Completed,57,Yes,No Dropout,5
+U0116,Student,SQL,Coursera,12/01/2024,01/09/2025,13,23,120,9,86,91,Completed,59,Yes,No Dropout,4
+U0117,Working Professional,SQL,edX,10/08/2024,,7,22,15,2,58,42,Dropped,24,No,Time Constraint,1
+U0118,Fresher,Power BI,Coursera,05/01/2025,08/07/2025,13,22,94,7,83,85,Completed,36,Yes,No Dropout,5
+U0119,Student,Tableau,Coursera,04/10/2024,05/19/2024,8,12,76,7,76,88,Completed,71,Yes,No Dropout,5
+U0120,Working Professional,SQL,Udemy,03/19/2025,04/28/2025,7,6,86,10,96,90,Completed,71,Yes,No Dropout,4
+U0121,Fresher,Tableau,Udemy,09/03/2024,,3,19,50,0,58,32,Dropped,40,No,Lost Interest,1
+U0122,Fresher,Statistics,Skillshare,03/31/2024,,17,19,23,4,57,62,In Progress,67,No,No Dropout,4
+U0123,Student,Data Science,Coursera,12/13/2024,02/04/2025,18,5,93,10,73,76,Completed,91,Yes,No Dropout,5
+U0124,Fresher,Python,edX,10/11/2024,,6,5,40,5,36,42,Dropped,19,No,No Dropout,3
+U0125,Working Professional,Data Science,Coursera,04/15/2025,,3,16,25,3,32,74,In Progress,83,No,No Dropout,3
+U0126,Working Professional,Statistics,Udemy,08/22/2024,,10,23,19,2,39,48,In Progress,84,No,No Dropout,3
+U0127,Fresher,SQL,edX,09/18/2024,12/02/2024,6,2,93,10,85,84,Completed,74,Yes,No Dropout,4
+U0128,Working Professional,SQL,Udemy,01/22/2024,,10,4,54,4,65,15,Dropped,26,No,Time Constraint,2
+U0129,Student,Statistics,Udemy,11/28/2024,,18,23,41,0,28,38,Dropped,25,No,Lost Interest,2
+U0130,Student,Python,YouTube,01/14/2025,03/27/2025,14,6,82,10,74,97,Completed,67,Yes,No Dropout,4
+U0131,Fresher,Power BI,YouTube,08/27/2024,,20,7,34,1,31,56,In Progress,34,No,No Dropout,3
+U0132,Working Professional,Power BI,Coursera,08/29/2024,,6,18,27,1,54,53,In Progress,71,No,No Dropout,3
+U0133,Student,SQL,Udemy,03/26/2025,05/03/2025,12,20,112,10,84,80,Completed,75,Yes,No Dropout,4
+U0134,Working Professional,Statistics,Coursera,03/26/2025,,12,19,11,2,49,47,In Progress,91,No,No Dropout,4
+U0135,Student,Data Science,YouTube,08/23/2024,10/28/2024,6,9,117,9,100,100,Completed,50,Yes,No Dropout,4
+U0136,Student,Power BI,YouTube,03/26/2024,05/01/2024,2,10,88,7,70,98,Completed,77,Yes,No Dropout,4
+U0137,Fresher,Data Science,YouTube,02/12/2024,,13,15,60,1,58,19,Dropped,23,No,Time Constraint,3
+U0138,Working Professional,Tableau,Udemy,07/14/2024,08/14/2024,19,24,107,8,70,81,Completed,66,Yes,No Dropout,4
+U0139,Working Professional,Power BI,YouTube,02/11/2024,05/25/2024,7,23,111,7,75,96,Completed,61,Yes,No Dropout,5
+U0140,Student,Python,Skillshare,09/17/2024,10/31/2024,17,20,100,10,90,89,Completed,61,Yes,No Dropout,4
+U0141,Fresher,Statistics,YouTube,12/03/2024,,5,12,16,0,25,57,In Progress,91,No,No Dropout,4
+U0142,Working Professional,Power BI,Udemy,12/12/2024,,18,10,22,4,58,59,In Progress,91,No,No Dropout,3
+U0143,Working Professional,Power BI,Udemy,03/27/2025,,2,21,29,5,28,40,Dropped,18,No,Time Constraint,3
+U0144,Fresher,SQL,edX,01/02/2024,03/27/2024,16,13,97,10,93,77,Completed,71,Yes,No Dropout,4
+U0145,Working Professional,SQL,edX,04/23/2025,,1,19,29,1,56,62,In Progress,93,No,No Dropout,3
+U0146,Student,Data Science,edX,05/13/2025,,1,8,10,3,45,67,In Progress,55,No,No Dropout,3
+U0147,Fresher,Python,edX,06/21/2024,,19,15,16,4,56,69,In Progress,84,No,No Dropout,4
+U0148,Working Professional,Machine Learning,Udemy,03/09/2025,,2,12,39,5,34,43,Dropped,33,No,No Dropout,3
+U0149,Fresher,Power BI,edX,01/07/2025,,16,16,53,1,33,51,In Progress,91,No,No Dropout,3
+U0150,Fresher,Python,YouTube,01/15/2024,02/18/2024,14,19,117,10,72,84,Completed,95,Yes,No Dropout,5
+U0151,Working Professional,Python,Udemy,01/06/2024,,6,20,20,3,46,64,In Progress,97,No,No Dropout,4
+U0152,Fresher,Tableau,Udemy,04/12/2025,,11,5,21,2,53,66,In Progress,93,No,No Dropout,4
+U0153,Student,Machine Learning,edX,08/29/2024,,3,18,14,4,25,12,Dropped,22,No,Too Difficult,1
+U0154,Fresher,Power BI,Skillshare,11/26/2024,01/15/2025,12,14,77,7,75,87,Completed,56,Yes,No Dropout,5
+U0155,Student,Power BI,YouTube,11/25/2024,,10,16,32,4,36,36,Dropped,12,No,Too Difficult,1
+U0156,Student,Artificial Intelligence,Udemy,12/12/2024,,13,6,36,3,63,50,In Progress,86,No,No Dropout,3
+U0157,Fresher,Data Science,Coursera,03/13/2025,,2,23,26,2,27,18,Dropped,31,No,No Dropout,2
+U0158,Fresher,Python,Skillshare,11/08/2024,,20,3,34,0,44,43,Dropped,17,No,Lost Interest,3
+U0159,Working Professional,SQL,Udemy,01/03/2025,,9,24,27,5,32,50,In Progress,91,No,No Dropout,4
+U0160,Working Professional,Artificial Intelligence,edX,03/02/2025,,5,13,47,2,55,63,In Progress,86,No,No Dropout,3
+U0161,Student,Data Science,edX,02/19/2024,05/19/2024,5,14,109,10,72,77,Completed,74,Yes,No Dropout,4
+U0162,Working Professional,Machine Learning,Udemy,10/31/2024,,16,9,43,2,60,45,Dropped,8,No,Too Difficult,2
+U0163,Fresher,Power BI,Skillshare,03/26/2025,,18,11,38,4,46,31,Dropped,26,No,No Dropout,1
+U0164,Working Professional,SQL,Skillshare,01/24/2025,,8,4,58,3,37,13,Dropped,30,No,No Dropout,3
+U0165,Fresher,SQL,Udemy,07/10/2024,,6,23,29,3,52,54,In Progress,63,No,No Dropout,4
+U0166,Fresher,Artificial Intelligence,edX,05/10/2025,,6,5,12,4,46,34,Dropped,35,No,No Dropout,3
+U0167,Student,Data Science,edX,03/04/2025,,8,16,36,4,38,22,Dropped,23,No,No Dropout,2
+U0168,Fresher,Statistics,Coursera,03/08/2025,06/16/2025,17,9,101,8,76,77,Completed,44,Yes,No Dropout,4
+U0169,Working Professional,Data Science,Coursera,10/16/2024,,12,13,42,4,57,11,Dropped,35,No,Too Difficult,3
+U0170,Working Professional,Tableau,Skillshare,12/27/2024,,16,24,13,0,34,65,In Progress,78,No,No Dropout,3
+U0171,Fresher,Python,Udemy,03/22/2025,,15,13,34,0,63,23,Dropped,28,No,Lost Interest,2
+U0172,Student,SQL,Coursera,04/30/2025,07/31/2025,15,18,100,10,70,86,Completed,57,Yes,No Dropout,5
+U0173,Student,Tableau,Skillshare,06/21/2024,,11,4,43,5,35,63,In Progress,45,No,No Dropout,4
+U0174,Fresher,Data Science,Udemy,12/14/2024,,20,24,35,5,56,71,In Progress,94,No,No Dropout,3
+U0175,Student,Statistics,edX,06/02/2024,,13,18,29,4,52,74,In Progress,93,No,No Dropout,3
+U0176,Working Professional,Data Science,edX,02/22/2024,05/04/2024,5,6,101,8,93,81,Completed,39,Yes,No Dropout,4
+U0177,Student,Statistics,YouTube,03/18/2024,07/05/2024,16,9,102,9,75,95,Completed,65,Yes,No Dropout,4
+U0178,Working Professional,Artificial Intelligence,Coursera,10/21/2024,,11,4,44,5,38,38,Dropped,28,No,Too Difficult,1
+U0179,Working Professional,Statistics,Skillshare,04/21/2025,,9,16,49,3,38,22,Dropped,8,No,Time Constraint,3
+U0180,Working Professional,Machine Learning,edX,02/20/2024,,13,19,25,1,53,54,In Progress,54,No,No Dropout,3
+U0181,Working Professional,Python,edX,10/25/2024,,4,22,45,2,52,24,Dropped,16,No,Too Difficult,3
+U0182,Fresher,Artificial Intelligence,edX,02/29/2024,,5,4,22,5,40,44,Dropped,6,No,Too Difficult,3
+U0183,Student,Statistics,Coursera,06/05/2024,,8,13,55,5,32,40,Dropped,34,No,Time Constraint,2
+U0184,Fresher,Power BI,Coursera,05/16/2024,,11,23,32,0,40,24,Dropped,18,No,Lost Interest,1
+U0185,Fresher,Machine Learning,Udemy,11/25/2024,,10,3,34,3,45,20,Dropped,10,No,Too Difficult,2
+U0186,Working Professional,SQL,YouTube,01/14/2025,03/05/2025,14,17,92,8,90,97,Completed,36,Yes,No Dropout,5
+U0187,Working Professional,Power BI,Udemy,04/22/2024,,8,9,19,5,52,50,In Progress,58,No,No Dropout,4
+U0188,Working Professional,Python,edX,03/18/2024,,7,18,25,1,62,34,Dropped,32,No,Lost Interest,3
+U0189,Working Professional,Machine Learning,edX,01/14/2025,,12,4,39,0,58,67,In Progress,55,No,No Dropout,4
+U0190,Student,Power BI,Coursera,05/10/2025,,13,13,22,2,42,42,Dropped,9,No,Time Constraint,3
+U0191,Student,Statistics,YouTube,04/28/2024,,12,9,35,2,44,60,In Progress,86,No,No Dropout,3
+U0192,Fresher,Power BI,Coursera,07/25/2024,09/13/2024,5,15,111,10,70,79,Completed,43,Yes,No Dropout,5
+U0193,Fresher,Python,Coursera,01/28/2024,04/18/2024,5,20,105,9,86,85,Completed,61,Yes,No Dropout,5
+U0194,Fresher,Python,Udemy,07/21/2024,,14,21,30,3,37,66,In Progress,52,No,No Dropout,3
+U0195,Working Professional,SQL,edX,05/07/2024,,15,24,22,4,65,53,In Progress,48,No,No Dropout,3
+U0196,Working Professional,Machine Learning,Skillshare,03/27/2025,,8,20,19,0,45,70,In Progress,56,No,No Dropout,3
+U0197,Fresher,Artificial Intelligence,Coursera,06/01/2024,,2,8,10,5,52,45,Dropped,29,No,Lost Interest,1
+U0198,Student,Tableau,YouTube,12/02/2024,01/21/2025,8,21,105,9,78,97,Completed,65,Yes,No Dropout,4
+U0199,Working Professional,Artificial Intelligence,YouTube,04/23/2025,,2,19,17,2,42,33,Dropped,20,No,No Dropout,2
+U0200,Fresher,Data Science,Udemy,04/28/2024,,16,8,23,3,26,51,In Progress,39,No,No Dropout,4
+U0201,Student,Artificial Intelligence,Udemy,02/22/2024,,14,22,21,4,56,27,Dropped,37,No,Time Constraint,3
+U0202,Working Professional,Tableau,YouTube,10/29/2024,01/15/2025,6,18,114,9,91,91,Completed,61,Yes,No Dropout,4
+U0203,Working Professional,SQL,Udemy,03/10/2024,,4,14,55,2,63,75,In Progress,61,No,No Dropout,4
+U0204,Fresher,Statistics,Skillshare,01/22/2024,,7,7,15,3,29,75,In Progress,42,No,No Dropout,3
+U0205,Working Professional,Python,YouTube,09/15/2024,12/30/2024,18,9,117,7,97,94,Completed,63,Yes,No Dropout,4
+U0206,Fresher,SQL,YouTube,03/22/2024,,13,9,52,3,40,67,In Progress,30,No,No Dropout,3
+U0207,Working Professional,Python,Udemy,04/26/2025,,5,4,41,2,49,70,In Progress,31,No,No Dropout,4
+U0208,Fresher,Machine Learning,Udemy,06/26/2024,,3,8,25,4,56,47,In Progress,86,No,No Dropout,4
+U0209,Student,Data Science,YouTube,07/18/2024,09/15/2024,17,3,100,9,98,77,Completed,41,Yes,No Dropout,4
+U0210,Student,Statistics,YouTube,02/01/2025,,4,10,17,1,33,66,In Progress,69,No,No Dropout,4
+U0211,Fresher,Statistics,Coursera,02/01/2025,,12,17,19,2,61,74,In Progress,92,No,No Dropout,4
+U0212,Student,Artificial Intelligence,Udemy,05/27/2024,,3,14,12,4,62,48,In Progress,46,No,No Dropout,4
+U0213,Working Professional,Power BI,Coursera,03/05/2024,06/07/2024,11,17,91,10,92,76,Completed,99,Yes,No Dropout,4
+U0214,Student,Data Science,Udemy,02/27/2024,,16,23,22,3,59,19,Dropped,12,No,Time Constraint,1
+U0215,Student,Power BI,Coursera,08/15/2024,,14,12,17,0,37,15,Dropped,33,No,Too Difficult,3
+U0216,Fresher,Artificial Intelligence,YouTube,07/18/2024,,16,19,23,4,27,66,In Progress,36,No,No Dropout,3
+U0217,Fresher,Data Science,edX,04/06/2025,05/08/2025,13,4,111,7,90,78,Completed,58,Yes,No Dropout,4
+U0218,Fresher,Power BI,edX,03/05/2024,,2,20,26,2,42,70,In Progress,48,No,No Dropout,3
+U0219,Student,Machine Learning,Coursera,01/23/2025,,9,16,19,3,38,28,Dropped,29,No,No Dropout,3
+U0220,Fresher,Python,Udemy,04/15/2025,06/10/2025,12,6,118,8,82,95,Completed,77,Yes,No Dropout,5
+U0221,Fresher,SQL,Udemy,08/01/2024,,15,17,10,0,54,20,Dropped,18,No,Time Constraint,2
+U0222,Fresher,SQL,Coursera,10/03/2024,,4,18,53,5,29,65,In Progress,76,No,No Dropout,4
+U0223,Working Professional,Artificial Intelligence,Udemy,03/24/2025,06/15/2025,7,22,104,10,75,96,Completed,68,Yes,No Dropout,4
+U0224,Fresher,Data Science,edX,08/21/2024,11/25/2024,9,16,86,10,71,96,Completed,74,Yes,No Dropout,4
+U0225,Fresher,Machine Learning,Skillshare,10/14/2024,,1,15,55,2,50,21,Dropped,32,No,Lost Interest,2
+U0226,Fresher,SQL,Coursera,05/24/2024,,16,9,23,5,39,17,Dropped,6,No,Time Constraint,1
+U0227,Fresher,Statistics,Udemy,09/01/2024,,4,17,53,3,44,43,Dropped,40,No,No Dropout,3
+U0228,Fresher,Python,Skillshare,07/16/2024,,10,10,42,0,30,62,In Progress,31,No,No Dropout,4
+U0229,Working Professional,Data Science,YouTube,01/11/2025,,3,4,55,5,26,46,In Progress,56,No,No Dropout,3
+U0230,Working Professional,Python,Coursera,01/01/2024,,12,3,33,2,47,17,Dropped,35,No,Lost Interest,1
+U0231,Student,Statistics,Coursera,02/28/2024,,20,10,17,0,49,70,In Progress,89,No,No Dropout,3
+U0232,Student,Artificial Intelligence,Udemy,03/06/2024,,16,16,56,1,51,32,Dropped,32,No,Lost Interest,3
+U0233,Student,Power BI,Udemy,12/03/2024,,20,21,55,1,58,43,Dropped,30,No,Too Difficult,3
+U0234,Working Professional,Python,Skillshare,10/05/2024,,3,4,40,5,51,55,In Progress,30,No,No Dropout,3
+U0235,Working Professional,Data Science,Coursera,02/18/2025,,13,7,27,3,29,54,In Progress,64,No,No Dropout,4
+U0236,Fresher,Artificial Intelligence,Coursera,03/30/2025,06/01/2025,17,5,99,7,81,100,Completed,78,Yes,No Dropout,4
+U0237,Student,Power BI,Skillshare,08/18/2024,12/07/2024,18,9,95,9,85,84,Completed,93,Yes,No Dropout,5
+U0238,Working Professional,Data Science,YouTube,01/29/2025,,17,4,16,4,54,42,Dropped,10,No,No Dropout,2
+U0239,Fresher,Data Science,Coursera,12/21/2024,,5,3,58,1,57,48,In Progress,63,No,No Dropout,3
+U0240,Working Professional,Python,edX,05/02/2024,,10,17,54,3,30,14,Dropped,18,No,Lost Interest,1
+U0241,Student,Python,Coursera,05/01/2025,,2,19,23,0,43,16,Dropped,32,No,No Dropout,2
+U0242,Working Professional,Data Science,Coursera,12/22/2024,,17,15,28,5,64,68,In Progress,81,No,No Dropout,4
+U0243,Working Professional,Tableau,edX,07/09/2024,,2,16,43,2,57,15,Dropped,7,No,Too Difficult,3
+U0244,Student,Power BI,Udemy,03/05/2025,,5,18,12,1,39,10,Dropped,33,No,Too Difficult,3
+U0245,Working Professional,Machine Learning,Udemy,08/04/2024,,10,7,56,3,27,69,In Progress,89,No,No Dropout,3
+U0246,Working Professional,Artificial Intelligence,Coursera,05/25/2024,06/30/2024,7,12,85,10,86,84,Completed,79,Yes,No Dropout,4
+U0247,Student,Power BI,Udemy,04/30/2025,06/23/2025,9,23,103,8,98,86,Completed,97,Yes,No Dropout,5
+U0248,Fresher,Data Science,Coursera,04/28/2024,,1,13,39,5,54,50,In Progress,54,No,No Dropout,3
+U0249,Student,Artificial Intelligence,Coursera,05/20/2024,,14,14,28,4,42,32,Dropped,12,No,Lost Interest,1
+U0250,Fresher,Tableau,YouTube,01/19/2025,,5,5,10,5,41,36,Dropped,22,No,Too Difficult,2
+U0251,Student,Tableau,Skillshare,04/11/2025,,20,3,16,3,64,16,Dropped,5,No,No Dropout,2
+U0252,Student,Machine Learning,edX,06/15/2024,,6,19,44,3,36,51,In Progress,53,No,No Dropout,3
+U0253,Fresher,Machine Learning,Coursera,02/16/2024,03/25/2024,16,13,116,7,74,96,Completed,92,Yes,No Dropout,4
+U0254,Working Professional,Data Science,Coursera,04/12/2024,,4,14,45,5,56,62,In Progress,45,No,No Dropout,3
+U0255,Fresher,Machine Learning,Udemy,10/02/2024,,20,19,30,3,26,73,In Progress,89,No,No Dropout,4
+U0256,Fresher,Machine Learning,edX,04/03/2024,,9,15,60,4,61,33,Dropped,12,No,Too Difficult,3
+U0257,Working Professional,Tableau,edX,03/02/2025,,16,21,55,0,63,34,Dropped,25,No,Too Difficult,1
+U0258,Fresher,Artificial Intelligence,edX,01/24/2025,,16,17,37,4,35,65,In Progress,100,No,No Dropout,4
+U0259,Working Professional,Machine Learning,Coursera,01/13/2024,,7,5,50,2,64,61,In Progress,35,No,No Dropout,4
+U0260,Fresher,Tableau,YouTube,10/22/2024,,8,24,58,2,55,74,In Progress,83,No,No Dropout,3
+U0261,Fresher,Power BI,Udemy,01/30/2025,03/22/2025,9,4,83,7,78,77,Completed,30,Yes,No Dropout,5
+U0262,Fresher,Tableau,Coursera,06/20/2024,,4,9,46,5,56,36,Dropped,26,No,Time Constraint,2
+U0263,Fresher,Data Science,edX,06/26/2024,,16,4,47,5,65,45,Dropped,34,No,Time Constraint,3
+U0264,Student,SQL,edX,08/31/2024,,6,9,21,4,55,55,In Progress,82,No,No Dropout,4
+U0265,Fresher,Statistics,Skillshare,06/04/2024,,5,7,34,5,39,48,In Progress,37,No,No Dropout,4
+U0266,Fresher,Artificial Intelligence,Coursera,06/18/2024,08/22/2024,12,16,100,8,79,85,Completed,78,Yes,No Dropout,4
+U0267,Student,Statistics,Coursera,01/17/2025,,2,23,30,4,34,73,In Progress,31,No,No Dropout,4
+U0268,Student,Python,edX,03/11/2024,06/01/2024,9,19,104,8,88,86,Completed,63,Yes,No Dropout,5
+U0269,Working Professional,Tableau,Coursera,06/03/2024,,4,21,24,0,44,63,In Progress,54,No,No Dropout,4
+U0270,Fresher,SQL,Coursera,05/09/2024,,6,23,43,3,28,29,Dropped,35,No,Too Difficult,1
+U0271,Student,Python,Coursera,05/10/2025,06/25/2025,13,11,108,8,93,75,Completed,70,Yes,No Dropout,5
+U0272,Working Professional,Statistics,YouTube,03/05/2025,,12,19,30,5,58,10,Dropped,20,No,Time Constraint,3
+U0273,Fresher,Machine Learning,Skillshare,10/03/2024,,7,22,42,5,65,47,In Progress,33,No,No Dropout,3
+U0274,Student,Machine Learning,Coursera,09/16/2024,,10,17,37,4,46,43,Dropped,30,No,No Dropout,1
+U0275,Working Professional,Machine Learning,Coursera,10/11/2024,,2,11,27,5,55,73,In Progress,97,No,No Dropout,4
+U0276,Student,Statistics,Coursera,03/20/2025,07/10/2025,20,10,107,8,100,79,Completed,65,Yes,No Dropout,5
+U0277,Student,Machine Learning,Udemy,12/19/2024,04/18/2025,12,20,84,8,70,76,Completed,42,Yes,No Dropout,5
+U0278,Working Professional,Machine Learning,edX,04/23/2025,,13,7,36,4,57,75,In Progress,79,No,No Dropout,3
+U0279,Working Professional,Statistics,edX,05/22/2024,,8,20,10,2,53,29,Dropped,21,No,No Dropout,2
+U0280,Fresher,Python,edX,07/26/2024,09/01/2024,19,9,105,8,85,88,Completed,97,Yes,No Dropout,4
+U0281,Working Professional,Data Science,Skillshare,04/07/2025,05/29/2025,19,6,98,7,89,96,Completed,95,Yes,No Dropout,5
+U0282,Student,Data Science,edX,04/26/2024,,7,14,23,0,60,21,Dropped,40,No,Time Constraint,3
+U0283,Working Professional,SQL,Coursera,05/04/2024,,14,14,55,1,30,30,Dropped,40,No,Too Difficult,1
+U0284,Fresher,Python,Udemy,11/01/2024,12/06/2024,14,24,82,7,74,96,Completed,33,Yes,No Dropout,5
+U0285,Student,SQL,edX,04/06/2024,,15,10,45,3,30,66,In Progress,55,No,No Dropout,3
+U0286,Fresher,Python,Udemy,07/28/2024,,15,16,46,1,26,75,In Progress,95,No,No Dropout,4
+U0287,Fresher,Python,edX,06/30/2024,10/24/2024,19,14,103,10,70,90,Completed,30,Yes,No Dropout,5
+U0288,Student,Statistics,Skillshare,09/18/2024,12/28/2024,20,6,93,9,87,87,Completed,53,Yes,No Dropout,4
+U0289,Student,Data Science,Udemy,09/26/2024,12/09/2024,16,22,98,10,98,80,Completed,35,Yes,No Dropout,5
+U0290,Fresher,Artificial Intelligence,YouTube,07/19/2024,,17,11,15,1,32,45,Dropped,30,No,Lost Interest,3
+U0291,Student,Tableau,YouTube,09/14/2024,,17,21,18,0,59,22,Dropped,30,No,Time Constraint,1
+U0292,Working Professional,Machine Learning,Coursera,03/05/2024,,13,15,49,0,53,72,In Progress,30,No,No Dropout,3
+U0293,Working Professional,Power BI,YouTube,01/10/2024,,1,15,49,0,63,42,Dropped,29,No,Too Difficult,3
+U0294,Working Professional,Data Science,Coursera,03/24/2025,,4,2,28,5,26,56,In Progress,84,No,No Dropout,3
+U0295,Student,Data Science,Skillshare,11/02/2024,01/05/2025,6,12,87,8,80,95,Completed,55,Yes,No Dropout,4
+U0296,Working Professional,Data Science,Skillshare,11/19/2024,,11,22,18,0,28,29,Dropped,39,No,Lost Interest,2
+U0297,Student,Data Science,edX,02/15/2025,,16,9,38,3,30,64,In Progress,46,No,No Dropout,3
+U0298,Fresher,Power BI,edX,07/10/2024,,1,6,53,5,40,55,In Progress,65,No,No Dropout,4
+U0299,Student,Power BI,Coursera,06/23/2024,,12,16,14,4,58,22,Dropped,31,No,Too Difficult,3
+U0300,Working Professional,Artificial Intelligence,Skillshare,04/28/2024,,8,12,25,5,33,38,Dropped,39,No,Lost Interest,1
+U0301,Fresher,Artificial Intelligence,edX,05/07/2025,,5,5,60,2,30,54,In Progress,100,No,No Dropout,4
+U0302,Fresher,SQL,Coursera,05/11/2024,06/10/2024,1,5,70,9,75,80,Completed,60,Yes,No Dropout,5
+U0303,Fresher,Machine Learning,Skillshare,01/25/2025,03/20/2025,18,23,108,8,81,91,Completed,65,Yes,No Dropout,5
+U0304,Working Professional,Tableau,Skillshare,04/06/2024,,20,5,37,1,58,34,Dropped,34,No,No Dropout,1
+U0305,Working Professional,Tableau,Udemy,03/31/2025,07/26/2025,18,5,101,9,92,96,Completed,40,Yes,No Dropout,5
+U0306,Working Professional,Python,edX,02/15/2025,03/29/2025,18,18,94,9,92,81,Completed,43,Yes,No Dropout,5
+U0307,Student,Data Science,edX,01/19/2025,,19,8,56,1,59,10,Dropped,26,No,Lost Interest,1
+U0308,Working Professional,SQL,Skillshare,04/25/2024,,13,14,22,1,50,11,Dropped,13,No,Too Difficult,3
+U0309,Working Professional,Data Science,Coursera,03/08/2025,,13,6,40,1,46,21,Dropped,34,No,Too Difficult,3
+U0310,Student,Statistics,Udemy,01/22/2024,04/15/2024,11,14,70,9,73,97,Completed,83,Yes,No Dropout,5
+U0311,Working Professional,Artificial Intelligence,YouTube,04/20/2024,07/08/2024,14,5,94,8,79,84,Completed,95,Yes,No Dropout,5
+U0312,Fresher,Machine Learning,Skillshare,01/16/2024,,13,2,10,0,29,47,In Progress,47,No,No Dropout,3
+U0313,Fresher,Artificial Intelligence,Coursera,03/01/2025,,11,13,52,5,63,47,In Progress,71,No,No Dropout,3
+U0314,Student,Tableau,YouTube,07/14/2024,09/29/2024,20,9,100,9,88,82,Completed,96,Yes,No Dropout,4
+U0315,Student,SQL,YouTube,07/11/2024,,11,18,32,5,44,73,In Progress,68,No,No Dropout,4
+U0316,Fresher,SQL,edX,12/09/2024,,14,8,32,2,55,19,Dropped,30,No,No Dropout,2
+U0317,Fresher,Data Science,Coursera,05/22/2024,,2,11,12,1,60,57,In Progress,81,No,No Dropout,3
+U0318,Working Professional,Data Science,Skillshare,10/07/2024,,18,22,56,4,36,28,Dropped,9,No,Too Difficult,1
+U0319,Student,Python,Udemy,03/15/2025,06/13/2025,6,21,81,9,70,81,Completed,89,Yes,No Dropout,5
+U0320,Working Professional,Data Science,Skillshare,04/06/2025,,6,22,46,3,39,71,In Progress,44,No,No Dropout,4
+U0321,Student,Statistics,Udemy,02/16/2024,,18,21,10,3,43,52,In Progress,94,No,No Dropout,4
+U0322,Student,Data Science,Skillshare,03/10/2024,04/14/2024,16,19,89,9,79,100,Completed,48,Yes,No Dropout,5
+U0323,Working Professional,Artificial Intelligence,Coursera,06/20/2024,,11,12,11,3,51,72,In Progress,66,No,No Dropout,4
+U0324,Fresher,Data Science,Skillshare,01/18/2025,,10,20,36,2,42,72,In Progress,48,No,No Dropout,3
+U0325,Working Professional,Power BI,Skillshare,07/10/2024,,9,10,56,1,60,29,Dropped,26,No,Lost Interest,2
+U0326,Fresher,Statistics,Coursera,02/01/2024,,9,20,59,4,63,51,In Progress,50,No,No Dropout,3
+U0327,Student,SQL,edX,11/17/2024,,6,5,59,5,53,58,In Progress,38,No,No Dropout,3
+U0328,Fresher,Data Science,Skillshare,01/18/2025,03/29/2025,17,3,76,7,75,83,Completed,90,Yes,No Dropout,5
+U0329,Student,Python,Coursera,09/08/2024,,12,17,50,1,45,71,In Progress,47,No,No Dropout,3
+U0330,Student,Machine Learning,Skillshare,04/29/2025,,8,19,14,4,45,52,In Progress,85,No,No Dropout,3
+U0331,Fresher,Artificial Intelligence,Udemy,06/17/2024,,10,22,35,1,61,61,In Progress,33,No,No Dropout,3
+U0332,Fresher,Tableau,edX,11/01/2024,12/02/2024,12,11,111,10,79,77,Completed,30,Yes,No Dropout,5
+U0333,Fresher,Python,Coursera,05/07/2025,,11,2,53,1,64,40,Dropped,40,No,Too Difficult,1
+U0334,Working Professional,Tableau,Coursera,01/13/2024,,6,22,23,1,63,69,In Progress,86,No,No Dropout,3
+U0335,Working Professional,Artificial Intelligence,edX,10/27/2024,11/30/2024,12,4,120,8,100,78,Completed,65,Yes,No Dropout,4
+U0336,Student,Tableau,edX,05/06/2024,08/27/2024,4,2,118,9,76,82,Completed,58,Yes,No Dropout,4
+U0337,Working Professional,Machine Learning,edX,04/20/2024,05/20/2024,17,21,82,7,85,80,Completed,84,Yes,No Dropout,5
+U0338,Working Professional,Machine Learning,YouTube,06/01/2024,,14,4,15,2,30,48,In Progress,73,No,No Dropout,4
+U0339,Fresher,Power BI,Skillshare,03/31/2025,06/01/2025,1,5,89,10,95,81,Completed,32,Yes,No Dropout,4
+U0340,Fresher,Data Science,YouTube,10/07/2024,,5,13,11,1,60,40,Dropped,30,No,Time Constraint,2
+U0341,Fresher,Data Science,edX,01/15/2025,04/12/2025,19,9,86,7,96,90,Completed,72,Yes,No Dropout,4
+U0342,Student,Python,Udemy,06/29/2024,,6,13,14,0,54,32,Dropped,27,No,Too Difficult,2
+U0343,Working Professional,Artificial Intelligence,Coursera,03/16/2025,,17,4,53,5,53,68,In Progress,63,No,No Dropout,3
+U0344,Working Professional,SQL,Udemy,09/01/2024,,13,7,44,4,33,63,In Progress,95,No,No Dropout,4
+U0345,Working Professional,Machine Learning,edX,11/21/2024,02/02/2025,19,7,96,8,70,91,Completed,69,Yes,No Dropout,4
+U0346,Working Professional,Machine Learning,edX,02/17/2024,04/11/2024,6,6,75,8,100,91,Completed,77,Yes,No Dropout,4
+U0347,Student,Data Science,Coursera,03/12/2024,,18,17,42,2,25,37,Dropped,32,No,No Dropout,1
+U0348,Fresher,Tableau,edX,06/21/2024,,15,14,52,0,57,10,Dropped,20,No,Lost Interest,3
+U0349,Working Professional,Python,Udemy,12/19/2024,,11,7,58,5,55,69,In Progress,82,No,No Dropout,4
+U0350,Student,Power BI,Skillshare,09/02/2024,,19,6,54,3,61,44,Dropped,7,No,No Dropout,2
+U0351,Fresher,Python,YouTube,02/17/2025,,8,5,13,5,34,22,Dropped,35,No,No Dropout,1
+U0352,Fresher,SQL,Coursera,01/06/2025,,15,19,33,4,46,14,Dropped,38,No,Lost Interest,3
+U0353,Fresher,Tableau,Coursera,03/23/2024,05/28/2024,17,6,80,10,70,85,Completed,56,Yes,No Dropout,5
+U0354,Working Professional,Power BI,edX,08/30/2024,,1,24,30,5,65,14,Dropped,37,No,No Dropout,1
+U0355,Student,Data Science,edX,06/04/2024,09/08/2024,10,18,98,8,87,99,Completed,35,Yes,No Dropout,5
+U0356,Fresher,Python,edX,03/08/2025,05/26/2025,16,16,103,10,74,87,Completed,46,Yes,No Dropout,5
+U0357,Working Professional,Data Science,edX,05/15/2024,,18,21,42,5,34,43,Dropped,10,No,No Dropout,3
+U0358,Working Professional,Python,Udemy,09/02/2024,12/06/2024,2,20,86,9,74,91,Completed,46,Yes,No Dropout,5
+U0359,Fresher,Artificial Intelligence,YouTube,06/06/2024,,4,16,13,2,40,57,In Progress,70,No,No Dropout,3
+U0360,Student,Data Science,Skillshare,04/02/2024,,11,17,25,3,40,53,In Progress,48,No,No Dropout,4
+U0361,Working Professional,Power BI,Coursera,08/12/2024,09/26/2024,10,21,84,10,81,83,Completed,53,Yes,No Dropout,4
+U0362,Student,Statistics,Udemy,04/15/2025,,16,3,46,4,46,38,Dropped,29,No,Lost Interest,2
+U0363,Fresher,Machine Learning,Coursera,02/24/2024,,1,19,60,0,45,50,In Progress,90,No,No Dropout,4
+U0364,Working Professional,Artificial Intelligence,YouTube,03/01/2025,,19,11,42,4,28,15,Dropped,10,No,No Dropout,3
+U0365,Fresher,Data Science,Coursera,01/27/2025,,15,21,40,5,56,30,Dropped,18,No,Too Difficult,1
+U0366,Fresher,Tableau,Coursera,08/03/2024,11/02/2024,7,8,90,7,93,76,Completed,75,Yes,No Dropout,5
+U0367,Working Professional,SQL,Skillshare,03/08/2025,,9,4,42,1,51,45,In Progress,71,No,No Dropout,4
+U0368,Student,SQL,Skillshare,03/31/2025,05/26/2025,11,19,115,7,97,83,Completed,35,Yes,No Dropout,4
+U0369,Student,Power BI,edX,01/30/2025,,4,15,59,5,52,65,In Progress,66,No,No Dropout,4
+U0370,Student,SQL,Skillshare,03/27/2024,,18,9,13,3,52,71,In Progress,32,No,No Dropout,3
+U0371,Fresher,SQL,Udemy,01/28/2025,03/17/2025,2,5,106,7,82,94,Completed,81,Yes,No Dropout,4
+U0372,Fresher,SQL,Coursera,08/05/2024,,10,21,57,2,65,25,Dropped,6,No,Time Constraint,3
+U0373,Student,Data Science,Skillshare,06/22/2024,,3,16,24,0,49,30,Dropped,13,No,No Dropout,3
+U0374,Fresher,Data Science,Udemy,04/11/2024,,11,21,32,5,59,45,In Progress,71,No,No Dropout,4
+U0375,Working Professional,Data Science,YouTube,11/21/2024,,6,10,51,1,58,23,Dropped,29,No,Time Constraint,3
+U0376,Student,SQL,Udemy,11/24/2024,02/16/2025,19,7,97,7,87,98,Completed,43,Yes,No Dropout,4
+U0377,Working Professional,Tableau,Coursera,04/11/2024,06/27/2024,9,20,107,8,80,80,Completed,61,Yes,No Dropout,5
+U0378,Student,SQL,Coursera,03/21/2025,,11,17,40,1,36,67,In Progress,100,No,No Dropout,4
+U0379,Student,Tableau,Coursera,05/27/2024,08/23/2024,5,19,105,7,98,84,Completed,56,Yes,No Dropout,5
+U0380,Fresher,Tableau,edX,04/08/2025,,6,5,46,0,48,22,Dropped,29,No,Lost Interest,1
+U0381,Student,Statistics,Udemy,09/18/2024,,17,21,28,5,56,28,Dropped,15,No,Time Constraint,2
+U0382,Working Professional,Data Science,Coursera,03/25/2024,,11,24,13,2,29,43,Dropped,6,No,Too Difficult,3
+U0383,Fresher,SQL,Skillshare,07/25/2024,,20,16,38,2,64,14,Dropped,11,No,Time Constraint,3
+U0384,Working Professional,Artificial Intelligence,YouTube,10/31/2024,01/13/2025,7,22,115,9,72,100,Completed,49,Yes,No Dropout,5
+U0385,Fresher,Machine Learning,edX,01/23/2024,02/22/2024,6,16,109,10,87,93,Completed,36,Yes,No Dropout,4
+U0386,Working Professional,Machine Learning,edX,11/04/2024,,13,6,49,0,57,12,Dropped,11,No,Time Constraint,3
+U0387,Fresher,Artificial Intelligence,Skillshare,01/07/2025,,15,12,34,3,59,27,Dropped,26,No,Lost Interest,2
+U0388,Fresher,Power BI,edX,12/12/2024,,6,6,13,3,26,26,Dropped,15,No,Too Difficult,3
+U0389,Student,Statistics,Udemy,07/01/2024,,5,24,27,4,29,61,In Progress,44,No,No Dropout,3
+U0390,Working Professional,SQL,YouTube,04/06/2025,05/18/2025,11,13,115,10,90,99,Completed,33,Yes,No Dropout,4
+U0391,Fresher,Tableau,Udemy,09/03/2024,,5,17,20,1,25,12,Dropped,5,No,Lost Interest,2
+U0392,Working Professional,Statistics,Udemy,01/02/2025,,6,6,47,0,57,72,In Progress,71,No,No Dropout,3
+U0393,Working Professional,Artificial Intelligence,Coursera,06/17/2024,,8,12,15,3,51,52,In Progress,69,No,No Dropout,4
+U0394,Student,SQL,YouTube,09/22/2024,11/03/2024,11,11,110,7,72,83,Completed,34,Yes,No Dropout,4
+U0395,Fresher,SQL,YouTube,08/12/2024,,14,8,30,1,28,39,Dropped,36,No,Lost Interest,2
+U0396,Fresher,Tableau,Udemy,01/31/2025,,2,10,47,5,48,70,In Progress,88,No,No Dropout,4
+U0397,Working Professional,Machine Learning,Skillshare,04/03/2024,07/06/2024,9,9,73,9,73,95,Completed,57,Yes,No Dropout,5
+U0398,Fresher,Artificial Intelligence,Coursera,04/18/2025,,15,13,38,2,61,69,In Progress,46,No,No Dropout,4
+U0399,Student,Machine Learning,Skillshare,06/29/2024,,12,3,28,5,49,29,Dropped,28,No,Too Difficult,1
+U0400,Fresher,Data Science,Skillshare,05/11/2024,,8,9,14,1,65,72,In Progress,93,No,No Dropout,4
+U0401,Working Professional,Data Science,Coursera,06/10/2024,,2,5,48,5,45,14,Dropped,24,No,Time Constraint,3
+U0402,Student,Power BI,edX,05/03/2025,08/19/2025,17,18,88,10,91,98,Completed,51,Yes,No Dropout,5
+U0403,Student,Artificial Intelligence,edX,12/09/2024,,7,22,60,5,47,15,Dropped,27,No,No Dropout,2
+U0404,Fresher,Power BI,Udemy,05/16/2024,08/04/2024,9,7,80,8,94,99,Completed,75,Yes,No Dropout,4
+U0405,Student,Machine Learning,edX,05/14/2024,06/15/2024,6,15,112,10,83,99,Completed,53,Yes,No Dropout,4
+U0406,Working Professional,Artificial Intelligence,edX,10/06/2024,,5,21,35,5,50,71,In Progress,38,No,No Dropout,4
+U0407,Student,Machine Learning,edX,09/09/2024,,15,8,54,3,28,34,Dropped,12,No,Lost Interest,1
+U0408,Student,SQL,Udemy,10/30/2024,01/31/2025,8,23,115,10,78,92,Completed,32,Yes,No Dropout,5
+U0409,Fresher,Python,edX,01/24/2025,,19,5,60,4,37,26,Dropped,8,No,No Dropout,2
+U0410,Student,Data Science,YouTube,06/20/2024,,16,13,12,0,50,70,In Progress,45,No,No Dropout,4
+U0411,Working Professional,SQL,YouTube,09/15/2024,,19,8,48,1,43,45,In Progress,33,No,No Dropout,3
+U0412,Student,SQL,Coursera,04/09/2025,07/28/2025,9,12,90,7,71,83,Completed,94,Yes,No Dropout,5
+U0413,Working Professional,Tableau,Skillshare,02/27/2024,06/19/2024,14,24,113,10,89,80,Completed,70,Yes,No Dropout,4
+U0414,Fresher,Artificial Intelligence,edX,03/12/2024,,13,12,29,2,38,50,In Progress,68,No,No Dropout,3
+U0415,Working Professional,Statistics,edX,05/05/2024,06/06/2024,10,5,78,8,99,96,Completed,98,Yes,No Dropout,4
+U0416,Fresher,Python,Skillshare,11/13/2024,02/04/2025,12,12,84,8,83,94,Completed,92,Yes,No Dropout,4
+U0417,Student,Statistics,YouTube,04/20/2024,,8,3,15,3,37,17,Dropped,23,No,Time Constraint,3
+U0418,Student,Data Science,YouTube,11/02/2024,,2,24,17,4,27,74,In Progress,83,No,No Dropout,3
+U0419,Fresher,Tableau,Coursera,02/24/2024,04/28/2024,13,9,115,7,89,92,Completed,62,Yes,No Dropout,4
+U0420,Student,Power BI,edX,08/23/2024,,7,8,42,1,50,65,In Progress,70,No,No Dropout,3
+U0421,Fresher,Statistics,Coursera,11/08/2024,,8,8,41,1,25,29,Dropped,22,No,No Dropout,3
+U0422,Student,Artificial Intelligence,Coursera,04/04/2024,,18,16,15,0,39,65,In Progress,47,No,No Dropout,4
+U0423,Fresher,Tableau,Udemy,05/09/2024,08/27/2024,15,12,78,7,95,84,Completed,96,Yes,No Dropout,5
+U0424,Working Professional,SQL,edX,05/02/2024,,20,20,48,1,56,46,In Progress,46,No,No Dropout,4
+U0425,Working Professional,Python,Skillshare,04/08/2024,,18,11,30,0,53,40,Dropped,36,No,Time Constraint,2
+U0426,Fresher,Statistics,Coursera,03/24/2025,,8,19,40,4,45,60,In Progress,42,No,No Dropout,3
+U0427,Student,Machine Learning,Skillshare,04/11/2024,,9,19,48,3,65,75,In Progress,41,No,No Dropout,3
+U0428,Student,Machine Learning,Udemy,11/09/2024,,7,4,40,1,43,65,In Progress,44,No,No Dropout,3
+U0429,Student,Statistics,Coursera,08/13/2024,,10,4,52,4,58,70,In Progress,31,No,No Dropout,3
+U0430,Fresher,Power BI,Skillshare,12/25/2024,,16,2,47,1,33,45,Dropped,29,No,Too Difficult,2
+U0431,Fresher,Artificial Intelligence,edX,01/03/2025,03/31/2025,14,6,97,10,77,99,Completed,32,Yes,No Dropout,4
+U0432,Working Professional,SQL,Skillshare,01/09/2024,,2,5,60,0,25,35,Dropped,34,No,No Dropout,1
+U0433,Fresher,SQL,Udemy,08/08/2024,,18,14,14,5,61,35,Dropped,28,No,No Dropout,2
+U0434,Student,Artificial Intelligence,edX,03/14/2025,04/13/2025,14,16,99,10,96,75,Completed,67,Yes,No Dropout,5
+U0435,Student,Tableau,Udemy,04/12/2024,,4,11,24,0,31,45,Dropped,14,No,No Dropout,1
+U0436,Student,Power BI,Udemy,08/10/2024,,10,4,35,3,52,16,Dropped,34,No,Time Constraint,2
+U0437,Student,Tableau,YouTube,04/30/2025,,16,24,39,2,43,70,In Progress,61,No,No Dropout,4
+U0438,Working Professional,Artificial Intelligence,edX,03/07/2024,,13,17,41,4,47,44,Dropped,37,No,Too Difficult,1
+U0439,Fresher,Python,Coursera,03/14/2025,,1,4,27,0,37,54,In Progress,99,No,No Dropout,3
+U0440,Student,SQL,Coursera,07/09/2024,,10,11,34,0,65,10,Dropped,32,No,Too Difficult,1
+U0441,Working Professional,Power BI,edX,04/22/2025,07/15/2025,2,22,109,8,79,94,Completed,46,Yes,No Dropout,4
+U0442,Working Professional,Power BI,Udemy,10/02/2024,,11,21,34,2,55,10,Dropped,23,No,No Dropout,3
+U0443,Working Professional,Machine Learning,Coursera,08/25/2024,,1,4,50,5,28,54,In Progress,91,No,No Dropout,4
+U0444,Working Professional,Machine Learning,Coursera,10/26/2024,02/03/2025,20,10,120,7,79,82,Completed,32,Yes,No Dropout,5
+U0445,Student,Tableau,Coursera,02/08/2024,,8,11,42,4,60,51,In Progress,80,No,No Dropout,3
+U0446,Fresher,Tableau,edX,05/16/2024,,6,19,37,1,65,62,In Progress,88,No,No Dropout,4
+U0447,Student,SQL,Udemy,12/01/2024,,14,24,32,3,64,25,Dropped,23,No,Time Constraint,1
+U0448,Working Professional,Power BI,Udemy,09/03/2024,,3,20,36,0,46,29,Dropped,7,No,Too Difficult,1
+U0449,Working Professional,Tableau,YouTube,08/27/2024,12/08/2024,6,4,115,9,72,93,Completed,37,Yes,No Dropout,4
+U0450,Student,Artificial Intelligence,edX,08/21/2024,,6,12,19,3,36,31,Dropped,14,No,No Dropout,2
+U0451,Student,Python,YouTube,02/24/2024,,17,16,42,5,36,33,Dropped,34,No,Too Difficult,2
+U0452,Student,Machine Learning,Skillshare,10/23/2024,12/01/2024,11,8,77,7,70,84,Completed,62,Yes,No Dropout,5
+U0453,Working Professional,Machine Learning,Skillshare,03/07/2025,,5,21,55,1,27,59,In Progress,93,No,No Dropout,3
+U0454,Student,Artificial Intelligence,edX,06/22/2024,,8,6,10,0,28,75,In Progress,86,No,No Dropout,3
+U0455,Fresher,SQL,YouTube,03/23/2025,,10,16,29,0,47,26,Dropped,8,No,No Dropout,1
+U0456,Fresher,Statistics,edX,12/09/2024,,4,4,46,4,38,29,Dropped,34,No,No Dropout,2
+U0457,Working Professional,SQL,Skillshare,05/04/2024,07/09/2024,20,23,102,8,97,82,Completed,94,Yes,No Dropout,5
+U0458,Fresher,Python,edX,05/01/2024,,8,16,44,3,61,31,Dropped,32,No,Time Constraint,1
+U0459,Student,Tableau,Coursera,04/02/2024,06/23/2024,4,19,98,8,86,85,Completed,99,Yes,No Dropout,5
+U0460,Student,Python,edX,09/18/2024,12/11/2024,17,12,87,7,76,89,Completed,34,Yes,No Dropout,4
+U0461,Student,Tableau,Udemy,05/12/2025,08/23/2025,13,21,94,7,88,98,Completed,45,Yes,No Dropout,4
+U0462,Working Professional,Power BI,YouTube,06/28/2024,,8,20,10,1,35,60,In Progress,79,No,No Dropout,4
+U0463,Working Professional,SQL,YouTube,03/24/2025,,5,10,29,2,46,58,In Progress,59,No,No Dropout,3
+U0464,Fresher,Power BI,edX,03/15/2025,,11,22,49,0,34,55,In Progress,98,No,No Dropout,4
+U0465,Student,Tableau,YouTube,02/26/2025,,13,2,58,0,60,14,Dropped,5,No,Too Difficult,1
+U0466,Working Professional,Power BI,YouTube,10/17/2024,02/14/2025,4,18,106,9,94,87,Completed,80,Yes,No Dropout,4
+U0467,Fresher,Machine Learning,Coursera,03/06/2025,,19,21,52,4,48,29,Dropped,32,No,Time Constraint,3
+U0468,Working Professional,Statistics,Coursera,12/13/2024,03/14/2025,6,12,99,10,79,77,Completed,98,Yes,No Dropout,5
+U0469,Fresher,Power BI,edX,04/25/2025,,11,21,29,0,40,60,In Progress,95,No,No Dropout,3
+U0470,Student,Data Science,Coursera,12/04/2024,,9,5,28,2,39,59,In Progress,30,No,No Dropout,4
+U0471,Working Professional,Tableau,YouTube,05/09/2025,,9,9,58,5,38,15,Dropped,11,No,Time Constraint,3
+U0472,Working Professional,Tableau,Coursera,02/10/2024,,14,2,25,2,31,74,In Progress,44,No,No Dropout,3
+U0473,Fresher,Python,Skillshare,03/17/2025,05/01/2025,13,15,93,7,97,79,Completed,55,Yes,No Dropout,5
+U0474,Working Professional,Machine Learning,edX,11/13/2024,,13,12,37,0,59,33,Dropped,26,No,No Dropout,1
+U0475,Fresher,SQL,Coursera,04/26/2025,,5,14,27,2,46,47,In Progress,48,No,No Dropout,4
+U0476,Working Professional,Power BI,Udemy,08/12/2024,11/08/2024,20,15,78,10,75,83,Completed,44,Yes,No Dropout,5
+U0477,Fresher,Power BI,Skillshare,01/13/2025,,18,2,16,3,46,75,In Progress,43,No,No Dropout,4
+U0478,Student,Data Science,YouTube,06/01/2024,09/27/2024,3,13,116,8,93,90,Completed,72,Yes,No Dropout,4
+U0479,Student,SQL,YouTube,08/11/2024,,8,13,19,3,47,12,Dropped,36,No,Time Constraint,2
+U0480,Fresher,Artificial Intelligence,edX,06/09/2024,,11,16,40,0,34,11,Dropped,33,No,Lost Interest,3
+U0481,Working Professional,Python,Udemy,12/29/2024,,15,18,12,1,27,43,Dropped,5,No,Time Constraint,3
+U0482,Student,Artificial Intelligence,edX,02/08/2024,04/08/2024,17,11,90,10,89,100,Completed,51,Yes,No Dropout,4
+U0483,Working Professional,Python,Skillshare,04/09/2024,07/04/2024,13,18,75,9,86,97,Completed,78,Yes,No Dropout,5
+U0484,Working Professional,Python,YouTube,06/27/2024,,2,11,12,5,63,69,In Progress,47,No,No Dropout,4
+U0485,Student,Statistics,edX,01/02/2024,,5,23,23,2,54,39,Dropped,10,No,No Dropout,2
+U0486,Student,Machine Learning,YouTube,08/25/2024,12/04/2024,7,5,118,10,83,99,Completed,50,Yes,No Dropout,5
+U0487,Fresher,Tableau,Coursera,07/14/2024,,10,9,40,0,41,12,Dropped,10,No,Time Constraint,1
+U0488,Student,Machine Learning,YouTube,10/06/2024,11/14/2024,16,12,82,7,74,97,Completed,96,Yes,No Dropout,4
+U0489,Student,Tableau,YouTube,11/29/2024,01/21/2025,20,5,119,7,87,95,Completed,48,Yes,No Dropout,5
+U0490,Working Professional,Data Science,Coursera,05/03/2025,,18,24,50,3,47,63,In Progress,70,No,No Dropout,3
+U0491,Fresher,Statistics,Coursera,10/24/2024,,9,10,48,2,43,53,In Progress,85,No,No Dropout,4
+U0492,Fresher,Data Science,Skillshare,06/26/2024,,8,14,27,2,39,68,In Progress,63,No,No Dropout,4
+U0493,Working Professional,Statistics,edX,02/08/2025,05/24/2025,18,20,109,8,75,82,Completed,81,Yes,No Dropout,4
+U0494,Working Professional,Data Science,edX,12/12/2024,03/11/2025,6,7,71,7,91,85,Completed,63,Yes,No Dropout,5
+U0495,Student,Machine Learning,Skillshare,03/10/2025,,10,6,46,3,64,75,In Progress,100,No,No Dropout,4
+U0496,Working Professional,Machine Learning,Coursera,06/10/2024,,13,7,22,2,33,48,In Progress,47,No,No Dropout,3
+U0497,Working Professional,SQL,Skillshare,03/11/2025,,1,7,28,0,34,70,In Progress,76,No,No Dropout,3
+U0498,Fresher,Artificial Intelligence,Udemy,06/09/2024,,2,16,32,5,47,56,In Progress,88,No,No Dropout,3
+U0499,Working Professional,Tableau,Skillshare,01/04/2025,,7,23,13,1,36,11,Dropped,7,No,No Dropout,3
+U0500,Working Professional,Data Science,Coursera,02/28/2024,,6,22,29,0,52,59,In Progress,85,No,No Dropout,4

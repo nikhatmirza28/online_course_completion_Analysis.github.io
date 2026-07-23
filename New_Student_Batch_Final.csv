@@ -1,0 +1,26 @@
+Experience_Level,Category,Platform,Enrollment_Date,Hours_Spent_Per_Week,Course_Duration_Weeks,Videos_Watched,Assignments_Submitted,Quiz_Score,Completion_Percentage,Certificate_Issued
+Working Professional,Tableau,YouTube,10/20/2026,14,5,16,18,80,77,No
+Student,Tableau,Coursera,04/14/2026,8,22,17,16,54,56,No
+Working Professional,Statistics,Skillshare,06/28/2026,4,9,27,17,54,73,No
+Working Professional,Power BI,edX,10/08/2026,4,19,19,5,84,75,No
+Working Professional,Tableau,YouTube,06/21/2026,14,12,77,5,79,30,No
+Working Professional,SQL,Udemy,10/15/2026,19,11,45,2,93,50,No
+Working Professional,Power BI,YouTube,01/09/2026,13,21,47,7,97,37,No
+Working Professional,Statistics,YouTube,06/01/2026,4,7,24,19,73,69,No
+Fresher,Tableau,Udemy,02/18/2026,2,12,37,4,46,82,Yes
+Working Professional,Machine Learning,Udemy,02/22/2026,2,8,117,4,44,64,No
+Working Professional,Python,Coursera,03/28/2026,19,18,81,19,91,45,No
+Working Professional,Tableau,Udemy,11/10/2026,17,18,95,12,93,40,No
+Working Professional,Statistics,Coursera,05/16/2026,16,15,40,15,53,38,No
+Working Professional,SQL,edX,01/24/2026,4,8,89,6,72,69,No
+Working Professional,Statistics,Udemy,05/17/2026,6,9,112,13,50,44,No
+Working Professional,SQL,YouTube,03/24/2026,13,4,80,6,82,25,No
+Student,Tableau,Coursera,02/23/2026,9,24,87,17,48,53,No
+Working Professional,Data Science,YouTube,05/07/2026,7,19,107,3,47,40,No
+Fresher,Power BI,Skillshare,11/14/2026,11,7,60,11,79,93,Yes
+Working Professional,SQL,Skillshare,10/22/2026,9,6,56,9,72,83,Yes
+Fresher,Machine Learning,Skillshare,01/21/2026,8,6,48,19,78,82,Yes
+Working Professional,Tableau,Udemy,06/28/2026,11,9,110,3,73,76,No
+Working Professional,SQL,Coursera,01/03/2026,6,23,48,4,57,51,No
+Working Professional,Artificial Intelligence,Skillshare,03/22/2026,7,11,28,13,89,62,No
+Working Professional,Data Science,YouTube,02/28/2026,3,4,59,10,45,95,Yes
