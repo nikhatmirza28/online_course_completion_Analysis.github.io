@@ -175,7 +175,7 @@ elif page == "📊 Analysis":
 
     st.subheader("Correlation Heatmap")
 
-    st.image("screenshots/Heatmap.JPG", use_container_width=True)
+    st.image("screenshots/Heatmap (2).JPG", use_container_width=True)
 
 
 
