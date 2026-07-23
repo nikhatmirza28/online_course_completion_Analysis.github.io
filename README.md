@@ -131,3 +131,12 @@ Upload CSV
 Predict Completion Status
 Download Results
 
+
+
+👨‍💻 Author
+
+Nikhat Khan
+
+M.Tech – Digital Electronics & Communication Systems
+
+Data Science | Machine Learning | Python | Power BI | Streamlit
