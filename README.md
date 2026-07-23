@@ -61,16 +61,27 @@ Dropped
 
 🛠 Technologies Used
 Programming
+
 Python
+
 Libraries
+
 Pandas
+
 NumPy
+
 Scikit-Learn
+
 Joblib
+
 Streamlit
+
 Plotly
+
 Matplotlib
+
 Visualization
+
 Microsoft Power BI
 
 
