@@ -212,6 +212,7 @@ elif page == "📊 Analysis":
       )
     
     st.title("🤖 Batch Prediction")
+    st.markdown("---")
     st.image( "assets/last page.png",use_container_width=True
                   )
 
