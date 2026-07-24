@@ -205,14 +205,15 @@ elif page == "📊 Analysis":
 # BATCH PREDICTION PAGE
 # ==========================================
 
-elif page == "🤖 Batch Prediction":
-
+    st.set_page_config(
+        page_title="Online Course Completion Prediction",
+        page_icon="🎓",
+        layout="wide"
+      )
+    
     st.title("🤖 Batch Prediction")
-
-    uploaded_file = st.file_uploader(
-        "Upload Student Batch CSV",
-        type=["csv"]
-    )
+    st.image( "last page.png",use_container_width=True
+                  )
 
     if uploaded_file is not None:
 
