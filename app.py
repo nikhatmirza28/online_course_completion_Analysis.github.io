@@ -212,7 +212,7 @@ elif page == "📊 Analysis":
       )
     
     st.title("🤖 Batch Prediction")
-    st.image( "last page.png",use_container_width=True
+    st.image( "assets/last page.png",use_container_width=True
                   )
 
     if uploaded_file is not None:
