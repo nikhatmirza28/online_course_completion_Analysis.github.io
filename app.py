@@ -190,7 +190,7 @@ elif page == "📊 Analysis":
     st.markdown("### Dashboard - Page 1")
 
     st.image(
-    "dashboards/Dashboard_Page1.JPG",
+    "dashboards/dashboard_page1_new.JPG",
     use_container_width=True
         )
 
