@@ -175,9 +175,7 @@ elif page == "📊 Analysis":
 
     st.subheader("Correlation Heatmap")
 
-    st.image("screenshots/Heatmap.JPG", use_container_width=True)
-
-
+    st.image("screenshots/HeatMap (2).JPG", use_container_width=True)
 
 
     st.title (" Power BI Dashboard ")
@@ -192,14 +190,14 @@ elif page == "📊 Analysis":
     st.markdown("### Dashboard - Page 1")
 
     st.image(
-    "screenshots/Dashboard_Page1.jpg",
+    "dashboards/Dashboard_Page1.JPG",
     use_container_width=True
         )
 
     st.markdown("### Dashboard - Page 2")
 
     st.image(
-    "screenshots/Dashbord_Page2.jpg",
+    "dashboards/Dashbord_Page2.JPG",
     use_container_width=True
 )
 
