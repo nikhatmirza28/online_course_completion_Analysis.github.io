@@ -215,6 +215,11 @@ elif page == "📊 Analysis":
     st.image( "assets/last page.png",use_container_width=True
                   )
 
+    uploaded_file = st.file_uploader(
+        "Upload Student Batch CSV",
+        type=["csv"]
+    )
+
     if uploaded_file is not None:
 
         # ----------------------------
