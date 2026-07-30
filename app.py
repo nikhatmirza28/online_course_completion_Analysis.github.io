@@ -205,12 +205,7 @@ elif page == "📊 Analysis":
 # BATCH PREDICTION PAGE
 # ==========================================
 
-    st.set_page_config(
-        page_title="Online Course Completion Prediction",
-        page_icon="🎓",
-        layout="wide"
-      )
-    
+elif page == "🤖 Batch Prediction":
     st.title("🤖 Batch Prediction")
     st.markdown("---")
     st.image( "assets/last page.png",use_container_width=True
