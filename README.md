@@ -118,8 +118,5 @@ Download Results
 👨‍💻 Author
 
 Nikhat Khan
-
-M.Tech – Digital Electronics & Communication Systems
 Aspiring AI & Data Science Engineer
-
 Data Science | Machine Learning | Python | Power BI | Streamlit
