@@ -118,5 +118,6 @@ Download Results
 👨‍💻 Author
 
 Nikhat Khan
+MCA(AI/ML)Percuing Amity University Online
 Aspiring AI & Data Science Engineer
 Data Science | Machine Learning | Python | Power BI | Streamlit
