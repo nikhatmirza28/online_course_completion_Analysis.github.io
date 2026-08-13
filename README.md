@@ -1,4 +1,4 @@
-#Title:🎓 Online Course Completion Prediction System
+# Title:🎓 Online Course Completion Prediction System
 📌 Project Overview
 
 The Online Course Completion Prediction System is a Machine Learning and Data Analytics project developed to predict whether a learner is likely to:
@@ -103,7 +103,6 @@ Upload CSV
 Predict Completion Status
 Download Results
 
-# 🎓 Online Course Completion Prediction System
 
 ## 🌐 Live Application
 
