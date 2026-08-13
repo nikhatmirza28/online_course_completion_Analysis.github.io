@@ -34,7 +34,6 @@ Easy to Use
 
 🛠 Technologies Used
 Programming
-
 Python
 
 Libraries
